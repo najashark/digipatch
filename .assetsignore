@@ -1,0 +1,5 @@
+wrangler.toml
+wrangler.json
+wrangler.jsonc
+.git/**
+node_modules/**
