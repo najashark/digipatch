@@ -284,6 +284,63 @@
             "sick_lose"
         ]
     },
+    "dmcgz": {
+        "SpritePackBase": "0x400000",
+        "CharaSpriteWidth": 48,
+        "CharaSpriteHeight": 48,
+        "SizeTableOffset": 49148,
+        "NumImages": 853,
+        "NumCharas": 34,
+        "NumFramesPerChara": 13,
+        "CharasStartIndex": 219,
+        "NumJogressCharas": 0,
+        "StatTableLocation": "0x11ba2",
+        "Stats": [
+            "SpriteID",
+            "Stage",
+            "MaxStamina",
+            "MinWeight",
+            "EvoTime",
+            "SleepHour",
+            "SleepMin",
+            "WakeHour",
+            "WakeMin",
+            "HungerTimer",
+            "StrengthDecayTimer",
+            "PoopTimer",
+            "HealAmount",
+            "Attribute",
+            "Power",
+            "AttackSprite",
+            "AltAttackSprite"
+        ],
+        "QuestModeLocation": "0xd498",
+        "QuestMode": {
+            "levels": 8,
+            "enemies": 5,
+            "attributes": ["CharacterID", "Power"]
+        },
+        "AnimationLocation": "0x16B4A",
+        "AnimationFrames": 32,
+        "AnimationFrameInfo": ["spriteId", "x", "y", "flip"],
+        "CharSpriteLabel": [
+            "idle_1",
+            "idle_2",
+            "happy",
+            "angry",
+            "training_1",
+            "training_2",
+            "attack_1",
+            "attack_2",
+            "eat_1",
+            "eat_2",
+            "refuse",
+            "sleep_1",
+            "sleep_2",
+            "sick",
+            "sick_lose"
+        ]
+    },
     "penc1": {
         "SpritePackBase": "0x400000",
         "CharaSpriteWidth": 48,
